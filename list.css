@@ -1,0 +1,10 @@
+.cursive {
+	text-decoration: line-through;
+	font-style: italic;
+}
+.container {
+	padding: 1rem 3rem;
+}
+.space {
+	margin-left: 5px;
+}
